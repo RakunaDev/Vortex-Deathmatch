@@ -113,7 +113,7 @@ function showContent(category) {
 
 <p>Kur hyni në server, do të shfaqet një menu kryesore ku mund të gjeni informacion për Discord, rregullat dhe update-t më të fundit. Kjo ju ndihmon të njiheni me serverin para se të filloni lojën.</p>
 
-<p>Serveri është në zhvillim të vazhdueshëm dhe do të përditësohet rregullisht me përmbajtje të reja për të përmirësuar eksperiencën tuaj.</p>;
+<p>Serveri është në zhvillim të vazhdueshëm dhe do të përditësohet rregullisht me përmbajtje të reja për të përmirësuar eksperiencën tuaj.</p>`;
   } else if(category === 'Discord') {
     html = `<h2>Discord</h2>
             <p>Join Discord serverin tonë për info dhe bashkëpunim me lojtarë të tjerë dhe developer-at:</p>
