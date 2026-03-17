@@ -94,10 +94,26 @@ function showContent(category) {
   let html = '';
   if(category === 'Rreth') {
     html = `<h2>Rreth Vortex DeathMatch</h2>
-            <p>Vortex DeathMatch është krijuar nga tre persona të talentuar: <strong>Riki</strong>, <strong>Rakuna</strong> dhe <strong>Amari</strong>. 
-            <strong>Amari</strong> dhe <strong>Riki</strong> janë themeluesit e serverit, ndërsa <strong>Rakuna</strong> kontribuoi si developer duke ndihmuar në zhvillimin e scriptave dhe mekanikave të lojës.</p>
-            <p>Qëllimi i Vortex DeathMatch është të ofrojë një eksperiencë unike multiplayer ku lojtarët mund të përballen në arenat tona me mekanika të avancuara si Gun Game, Recoil të rregulluar dhe shumë përditësime që përmirësojnë gameplay-in.</p>
-            <p>Kur hyni në server, do të shihni fillimisht ekranin kryesor me opsionet për të zgjedhur Discord, rregullat dhe update-t më të fundit. Ky është vendi ku çdo lojtar mund të njihet me komunitetin dhe të mësojë rregullat para se të fillojë lojën.</p>`;
+
+<p><strong>Vortex DeathMatch</strong> është një server i fokusuar në aksion të shpejtë dhe gameplay konkurrues, i krijuar për lojtarët që duan sfida dhe argëtim pa limite.</p>
+
+<p>Qëllimi i serverit është të ofrojë një eksperiencë unike multiplayer ku çdo lojtar mund të testojë skill-in e tij në mënyrë të drejtpërdrejtë kundër të tjerëve, me mekanika të avancuara dhe sistem të optimizuar për performancë të lartë.</p>
+
+<p><strong>Serveri përmban:</strong></p>
+<ul>
+    <li><strong>Arena System</strong> – Lufta zhvillohet në arena të ndryshme me aksion intensiv</li>
+    <li><strong>Gun Game</strong> – Sistemi progresiv i armëve bazuar në kill-e</li>
+    <li><strong>Custom Recoil System</strong> – Recoil i rregulluar për ndjesi më realiste</li>
+    <li><strong>Vehicle Rent System</strong> – Mundësi për të marrë makina me qira</li>
+    <li><strong>Kill/Death Stats</strong> – Statistika në kohë reale për performancën tuaj</li>
+    <li><strong>Leaderboard System</strong> – Renditje për lojtarët më të mirë</li>
+    <li><strong>Loadout System</strong> – Zgjedhje e armëve dhe pajisjeve</li>
+    <li><strong>Fast Respawn</strong> – Rikthim i shpejtë në lojë pa pritje</li>
+</ul>
+
+<p>Kur hyni në server, do të shfaqet një menu kryesore ku mund të gjeni informacion për Discord, rregullat dhe update-t më të fundit. Kjo ju ndihmon të njiheni me serverin para se të filloni lojën.</p>
+
+<p>Serveri është në zhvillim të vazhdueshëm dhe do të përditësohet rregullisht me përmbajtje të reja për të përmirësuar eksperiencën tuaj.</p>;
   } else if(category === 'Discord') {
     html = `<h2>Discord</h2>
             <p>Join Discord serverin tonë për info dhe bashkëpunim me lojtarë të tjerë dhe developer-at:</p>
